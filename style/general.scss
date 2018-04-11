@@ -1,0 +1,24 @@
+body {
+    margin: 0;
+    padding: 25px;
+    color: #ffffff;
+   background: -webkit-radial-gradient(ellipse closest-side , rgb(255, 255, 255),rgb(50, 130, 255));
+    line-height: 20px;
+    cursor: default;
+}
+
+h1 {
+    font-size: 32px;
+    line-height: 25px;
+    letter-spacing: -0.89px;
+    text-align: center;
+    font-family: 'Open Sans', sans-serif;
+    font-weight: 700;
+    white-space: nowrap;
+}
+
+.container {
+    transform: scale(0.9);
+}
+
+
